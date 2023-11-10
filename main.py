@@ -42,4 +42,4 @@ if __name__ == '__main__':
     print()
     print(lista1)
     print(lista1[3])
-    
+
